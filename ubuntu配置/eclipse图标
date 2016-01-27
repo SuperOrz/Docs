@@ -1,0 +1,13 @@
+# gedit /usr/share/applications/eclipse.desktop
+写入以下内容
+[Desktop Entry]
+Name=Eclipse
+Comment=Eclipse SDK
+Encoding=UTF-8
+Exec=/opt/eclipse/eclipse
+Icon=/opt/eclipse/icon.xpm
+Terminal=false
+Type=Application
+Categories=Application;Development;
+完成后可以在Application-Programming下看到eclipse图标
+
