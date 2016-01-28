@@ -10,3 +10,4 @@ source ~/.profile生效
 
 
 为了使root用户下生效，在/root/.bashrc添加同样内容
+为了是sudo命令下生效，在/etc/sudoers文件中添加/usr/jvm/jdk8/bin
